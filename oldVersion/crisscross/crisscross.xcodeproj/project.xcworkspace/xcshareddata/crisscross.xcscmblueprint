@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF092C98F1F3FBD35E2476CEE016CB0D70CBFF30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00AAB7B016649C59194B63D7AE8810315BEB5474" : 0,
+    "DF092C98F1F3FBD35E2476CEE016CB0D70CBFF30" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D4E0C6A-498F-4230-9679-0128F6F6B39E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00AAB7B016649C59194B63D7AE8810315BEB5474" : "crisscross",
+    "DF092C98F1F3FBD35E2476CEE016CB0D70CBFF30" : "crisscross\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "crisscross",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "src\/ios\/crisscross\/crisscross.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:vtuscano\/ravn-crisscrossfinal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00AAB7B016649C59194B63D7AE8810315BEB5474"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/vtuscano\/ravn-crisscross-transfer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF092C98F1F3FBD35E2476CEE016CB0D70CBFF30"
+    }
+  ]
+}
